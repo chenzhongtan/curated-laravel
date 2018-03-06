@@ -16,14 +16,14 @@ This repository mainly collects curated resources for Laravel.
 <a name="laravel-docs"></a>
 ## Laravel 文档
 
-- [Laravel 官方文档](https://laravel.com/docs)
-- [Laravel China - 中文文档（5.1 - 5.6）](https://laravel-china.org/docs/laravel)
-- [Laravel 学院 - 5.5 中文文档](http://laravelacademy.org/laravel-docs-5_5)
+- `英文` [Laravel 官方文档](https://laravel.com/docs)
+- `中文` [Laravel China - 中文文档（5.1 - 5.6）](https://laravel-china.org/docs/laravel)
+- `中文` [Laravel 学院 - 5.5 中文文档](http://laravelacademy.org/laravel-docs-5_5)
 
 <a name="laravel-tutorial"></a>
 ## Laravel 教程
 
-- [Laravel 教程 - Web 开发实战入门 ( Laravel 5.5 )](https://laravel-china.org/courses/laravel-essential-training-5.5) `付费`
+- `付费` `中文` [Laravel 教程 - Web 开发实战入门 ( Laravel 5.5 )](https://laravel-china.org/courses/laravel-essential-training-5.5)
 
 <a name="laravel-packages"></a>
 ## Laravel 拓展包
@@ -32,6 +32,6 @@ This repository mainly collects curated resources for Laravel.
 ### Laravel 官方拓展包
 
 - Cashier 交易工具包
-    - [Laravel 官方 - Laravel 5.6 Cashier 交易工具包文档](https://laravel.com/docs/5.6/billing)
-    - [Laravel China - Laravel 5.5 Cashier 交易工具包中文文档](https://laravel-china.org/docs/laravel/5.5/billing)
-    - [Cashier 交易工具包 GitHub 仓库](https://github.com/laravel/cashier)
+    - `英文` [Laravel 官方 - Laravel 5.6 Cashier 交易工具包文档](https://laravel.com/docs/5.6/billing)
+    - `中文` [Laravel China - Laravel 5.5 Cashier 交易工具包中文文档](https://laravel-china.org/docs/laravel/5.5/billing)
+    - `中文` [Cashier 交易工具包 GitHub 仓库](https://github.com/laravel/cashier)
