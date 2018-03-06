@@ -31,7 +31,7 @@ This repository mainly collects curated resources for Laravel.
 <a name="laravel-official-packages"></a>
 ### Laravel 官方拓展包
 
-- [Cashier 交易工具包]((https://github.com/laravel/cashier)
+- [Cashier 交易工具包](https://github.com/laravel/cashier)
     - `英文` [Laravel 官方 - Laravel 5.6 Cashier 交易工具包文档](https://laravel.com/docs/5.6/billing)
     - `中文` [Laravel China - Laravel 5.5 Cashier 交易工具包中文文档](https://laravel-china.org/docs/laravel/5.5/billing)
 - [Envoy 部署工具](https://github.com/laravel/envoy)
