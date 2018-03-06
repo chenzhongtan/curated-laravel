@@ -53,3 +53,12 @@ Horizon 为 Laravel 官方出品的 Redis 队列提供了一个可以通过代�
 
 - `英文` [Laravel 官方 - Laravel 5.6 Horizon 文档](https://laravel.com/docs/5.6/horizon)
 - `中文` [Laravel China - Laravel 5.5 Horizon 中文文档](https://laravel-china.org/docs/laravel/5.5/horizon)
+
+#### [Scout](https://github.com/laravel/scout)
+
+Laravel Scout 为 Eloquent 模型 的全文搜索提供了一个简单的、基于驱动程序的解决方案。使用模型观察员，Scout 会自动同步你的搜索索引和 Eloquent 记录。
+
+目前，Scout 自带了一个 Algolia 驱动；而编写自定义驱动程序很简单，你可以自由地使用自己的搜索实现来扩展 Scout。
+
+- `英文` [Laravel 官方 - Laravel 5.6 Scout 文档](https://laravel.com/docs/5.6/scout)
+- `中文` [Laravel China - Laravel 5.5 Scout 中文文档](https://laravel-china.org/docs/laravel/5.5/scout)
